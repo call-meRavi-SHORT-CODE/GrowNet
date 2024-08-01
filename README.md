@@ -13,7 +13,7 @@ Small and Medium-sized Enterprises (SMEs) are pivotal to the global economy, yet
 
 
 <p align="center">
-  <img src="problems.png" alt="FlutterFlow Integration" width="600" height="350" />
+  <img src="problems.png" alt="FlutterFlow Integration"  />
 </p>
 
 ## Our Solution
@@ -46,8 +46,7 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
   <img src="workflow.png" alt="FlutterFlow Integration" width="600" height="350" />
 </p>
 
-
-## Why FlutterFlow and Firebase?
+## Tech Stack Used
 
 ### FlutterFlow
 
@@ -94,5 +93,36 @@ Firebase’s managed infrastructure ensures that the application can scale effor
 Firebase offers integrated analytics and monitoring tools, such as Firebase Analytics and Crashlytics. These tools provide valuable insights into user behavior and application performance, helping us make data-driven decisions and improve the application.
 
 By leveraging FlutterFlow for rapid and efficient UI development and Firebase for robust backend services, we can build a powerful, scalable, and user-friendly Digital Marketplace for SMEs. This combination of tools aligns perfectly with our goal of creating a seamless and efficient platform for connecting SMEs with financing opportunities.
+
+### Blockchain with Solidity
+
+<p align="center">
+  <img src="solidity.png" alt="Blockchain Integration"  />
+</p>
+
+**1. Smart Contracts:**
+We use Solidity for developing smart contracts that handle various aspects of the platform’s transactions. Solidity is a powerful language specifically designed for Ethereum blockchain development.
+
+**2. Transparency and Security:**
+By leveraging smart contracts, we ensure transparency and security in all financial transactions. The use of blockchain technology guarantees that all transactions are immutable and verifiable.
+
+**3. Integration:**
+The smart contracts are integrated with the platform to handle finance listings, opportunity postings, and transaction executions securely and efficiently.
+
+### Recommendation System with Content-Based Filtering
+
+**1. Personalized Recommendations:**
+Our recommendation system uses content-based filtering to provide personalized suggestions to users. This approach analyzes the features of items (e.g., business opportunities, financing options) and matches them with user preferences.
+
+**2. Enhanced User Experience:**
+Content-based filtering helps in delivering relevant recommendations based on individual user profiles and past interactions, improving the overall user experience on the platform.
+
+**3. Implementation:**
+The recommendation system is implemented using algorithms that evaluate item attributes and user preferences to generate tailored suggestions.
+
+<p align="center">
+  <img src="content based filtering.png" alt="Blockchain Integration" width="600" />
+</p>
+
 
 
