@@ -43,8 +43,9 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
 ### FlutterFlow
 
 <p align="center">
-  <img src=flutterflow.png alt="Image Description">
+  <img src="flutterflow.png" alt="FlutterFlow Integration" width="600" />
 </p>
+
 
 
 
