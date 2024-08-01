@@ -54,7 +54,7 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
 
 
 
-[![Watch Video](https://img.youtube.com/vi/yPvfJPGBaBw/maxresdefault.jpg)](https://youtu.be/yPvfJPGBaBw?feature=shared)
+[![Watch Video](app.png)](https://youtu.be/yPvfJPGBaBw?feature=shared)
 
 
 ## Working of Recomendation system  (click the image to play the video)
