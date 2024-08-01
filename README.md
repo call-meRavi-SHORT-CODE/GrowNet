@@ -125,7 +125,7 @@ Content-based filtering helps in delivering relevant recommendations based on in
 The recommendation system is implemented using algorithms that evaluate item attributes and user preferences to generate tailored suggestions.
 
 <p align="center">
-  <img src="filtering.jpg" alt="alt"  />
+  <img src="filtering.jpg" alt="alt" width ="600" height ="350" />
 </p>
 
 
