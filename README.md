@@ -19,6 +19,10 @@ Small and Medium-sized Enterprises (SMEs) are pivotal to the global economy, yet
 ## Our Solution
 The Digital Marketplace is engineered with blockchain and AI to revolutionize the SME-lender dynamic, offering a transparent and efficient pathway to diverse financing opportunities.
 
+<p align="center">
+  <img src="solution.png" alt="FlutterFlow Integration"  />
+</p>
+
 ## Features
 
 ### Listing Finance Options
@@ -121,7 +125,7 @@ Content-based filtering helps in delivering relevant recommendations based on in
 The recommendation system is implemented using algorithms that evaluate item attributes and user preferences to generate tailored suggestions.
 
 <p align="center">
-  <img src="content based filtering.png" alt="Blockchain Integration" width="600" />
+  <img src="filtering.png" alt="Blockchain Integration" width="600" />
 </p>
 
 
