@@ -5,71 +5,34 @@
 [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-%23your_color?style=flat&logo=customtkinter&logoColor=white)](https://github.com/customtkinter/customtkinter)
 
 
-# Break the Silence: Empowering Communication with Real-Time Sign Language  Translator 🧏🏻 
+# Empowering Small and Medium Enterprises with Real-Time Funding Solutions
 
 
-Imagine a world where sign language and spoken language seamlessly connect  🤝.
-This AI-powered app bridges the gap for deaf and hard-of-hearing individuals (♂️♀️), empowering them to:
 
- 1) **Chat freely:** Real-time translation lets conversations flow naturally .
- 2) **Unlock opportunities:** Boost participation in education, employment, and healthcare .
- 3) **Feel included:** Connect with others and break down communication barriers .
+Small and Medium-sized Enterprises (SMEs) are pivotal to the global economy, yet they often struggle to secure necessary funding. This challenge, exacerbated by stringent traditional lending criteria and a low awareness of alternatives, stifles economic potential.
 
 
 ![Inputs](images/UI.png)
 
+## Our Solution
+The Digital Marketplace is engineered with blockchain and AI to revolutionize the SME-lender dynamic, offering a transparent and efficient pathway to diverse financing opportunities.
 
+## Features
 
+### Listing Finance Options
+- Financiers can list detailed descriptions of their financing options.
+- Includes online applications and foundational terms of service.
 
+### Opportunity Posts
+- SMEs can showcase lucrative business and investment opportunities.
+- Include essential details like contact information and credit scores.
+- Facilitates direct engagement between potential partners and investors.
 
+### Blockchain Integration
+- Ensures a foundation of trust and transparency.
+- Enhances operational reliability of trade transactions within the marketplace.
 
-
-
-
-
-
-# MediaPipe for detection
-
-MediaPipe is an open-source framework developed by Google for building real-time multi-modal processing pipelines. It offers pre-built building blocks for common computer vision and machine learning tasks, including hand landmark detection. This makes it a user-friendly and efficient tool for developers to create applications that interact with the physical world through gestures.
-
- **Keypoint Detection and Tracking**
-
- In the context of hand gesture recognition, MediaPipe's hand landmarking model performs two crucial functions:
  
- **Keypoint Detection:** The model identifies specific points of interest on the hand, such as the tip of each finger, the base of the palm, and wrist. These points are 
- crucial  for understanding hand posture and movement. MediaPipe's model detects 21 of these keypoints with high accuracy.
- 
- **Tracking:** Once the keypoints are identified in a frame, MediaPipe can track them across subsequent video frames. This allows the system to understand the motion and  trajectory of the hand, making it possible to recognize gestures that involve movement over time.
-
-**Benefits of Using MediaPipe***
-
- Here's why MediaPipe is a popular choice for hand gesture recognition tasks:
- 
- **Pre-built and efficient:** MediaPipe provides a pre-trained hand landmarking model, saving developers the time and effort of training a model from scratch. This makes it 
- ideal for rapid prototyping and development.
- Cross-platform: MediaPipe works across various platforms, including mobile, desktop, and web. This allows developers to build applications that can run on a wide range of 
- devices.
- **Real-time performance:** The framework is optimized for real-time processing, making it suitable for applications that require low latency, like gesture-based interfaces 
- or sign language recognition.
- **Customizable:** While MediaPipe offers pre-built solutions, it also allows for customization. Developers can fine-tune the model or integrate it with other modules to 
- create more complex applications.
-
- ![Inputs](images/download.png)
-
-
-# Word_to_Sentence model 
- Recognizing the sequence of signs and generating grammatically correct text that reflects the intended meaning.Disambiguation techniques handle signs with multiple 
- meanings based on context. The translated text appears on screen in real-time, fostering a natural flow of conversation.
-
-![Inputs](images/word_to_sentence.png)
-
-# Multi_language Model
-The Helsinki-NLP/opus-mt-en-multilingual model translates text into spoken languages, not sign language. However, it can aid sign language tasks indirectly by translating written content for sign language learners, supporting multilingual communication, or informing research for specialized sign language translation systems, facilitating accessibility and communication for the deaf community.
-
-![Inputs](Multi_language.png)
-
-
-
 
 
 
