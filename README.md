@@ -42,7 +42,11 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
 
 ### FlutterFlow
 
-![Inputs](flutterflow.png)
+<p align="center">
+  <img src=flutterflow.png alt="Image Description">
+</p>
+
+
 
 **1. Rapid Development:**
 FlutterFlow allows for fast prototyping and development of the application. Its intuitive drag-and-drop interface enables rapid UI design, reducing the time required to build and iterate on the user interface.
@@ -58,7 +62,11 @@ FlutterFlow provides flexibility in customization and scalability. As the projec
 
 ### Firebase
 
-![Inputs](firebase.png)
+<p align="center">
+  <img src=firebase.png alt="Image Description">
+</p>
+
+
 
 **1. Real-Time Database:**
 Firebase Firestore offers a real-time NoSQL database that is perfect for applications requiring real-time data synchronization. This capability ensures that SMEs and lenders receive up-to-date information instantly, enhancing the user experience.
