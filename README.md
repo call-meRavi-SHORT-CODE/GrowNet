@@ -50,6 +50,8 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
   <img src="workflow.png" alt="FlutterFlow Integration" width="600" height="350" />
 </p>
 
+# Working Demo
+
 ## Tech Stack Used
 
 ### FlutterFlow
@@ -125,7 +127,7 @@ Content-based filtering helps in delivering relevant recommendations based on in
 The recommendation system is implemented using algorithms that evaluate item attributes and user preferences to generate tailored suggestions.
 
 <p align="center">
-  <img src="filtering.jpg" alt="alt" width ="600" height ="350" />
+  <img src="filtering.jpg" alt="alt" width ="600" height ="450" />
 </p>
 
 
