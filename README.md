@@ -52,7 +52,21 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
 
 # Working Demo
 
-## Smart Contract for  Transcations using blockchain
+## Working of GrowNet FlutterFlow Application (click the image to play the video)
+
+[![Watch Video](https://img.youtube.com/vi/yPvfJPGBaBw/maxresdefault.jpg)](https://youtu.be/yPvfJPGBaBw?feature=shared)
+
+## Working of Recomendation system  (click the image to play the video)
+
+[![Watch Video](https://img.youtube.com/vi/7qq8aDFfxyY/maxresdefault.jpg)](https://youtu.be/7qq8aDFfxyY?feature=shared)
+
+
+## Smart Contract for Agreements using blockchain (click the image to play the video)
+
+[![Watch Video](https://img.youtube.com/vi/8JZUt97hW4Q/maxresdefault.jpg)](https://youtu.be/8JZUt97hW4Q?feature=shared)
+
+
+## Smart Contract for  Transcations using blockchain (click the image to play the video)
 
 [![Watch Video](https://img.youtube.com/vi/PbfkftRPqZc/maxresdefault.jpg)](https://youtu.be/PbfkftRPqZc?feature=shared)
 
