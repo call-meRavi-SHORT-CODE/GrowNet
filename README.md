@@ -12,7 +12,9 @@
 Small and Medium-sized Enterprises (SMEs) are pivotal to the global economy, yet they often struggle to secure necessary funding. This challenge, exacerbated by stringent traditional lending criteria and a low awareness of alternatives, stifles economic potential.
 
 
-![Inputs](images/UI.png)
+<p align="center">
+  <img src="problems.png" alt="FlutterFlow Integration" width="600" height="350" />
+</p>
 
 ## Our Solution
 The Digital Marketplace is engineered with blockchain and AI to revolutionize the SME-lender dynamic, offering a transparent and efficient pathway to diverse financing opportunities.
@@ -35,7 +37,14 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
  
 
 # Flow Diagram 
+<p align="center">
+  <img src="flow.png" alt="FlutterFlow Integration" width="600" height="350" />
+</p>
 
+# Wroking Process 
+<p align="center">
+  <img src="workflow.png" alt="FlutterFlow Integration" width="600" height="350" />
+</p>
 
 
 ## Why FlutterFlow and Firebase?
