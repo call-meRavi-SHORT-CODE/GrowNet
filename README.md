@@ -54,12 +54,8 @@ The Digital Marketplace is engineered with blockchain and AI to revolutionize th
 
 ## Smart Contract for  Transcations using blockchain
 
+[![Watch Video](https://img.youtube.com/vi/PbfkftRPqZc/maxresdefault.jpg)](https://youtu.be/PbfkftRPqZc?feature=shared)
 
-
-<video width="720" controls>
-    <source href="https://youtu.be/PbfkftRPqZc?feature=shared" >
-    
-</video>
 
 
 ## Tech Stack Used
